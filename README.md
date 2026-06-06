@@ -3,3 +3,9 @@
 
 ## NOTE: Currently all projects are unstable and are with many bugs
 
+## ESP-IDF version: 5.3
+
+## How to build and burn firmware and view debug log
+* idf.py build
+* idf.py flash
+* idf.py monitor

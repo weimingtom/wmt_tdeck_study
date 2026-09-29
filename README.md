@@ -83,3 +83,7 @@
     ESP_ERROR_CHECK(esp_lcd_panel_mirror(panel_handle, true, true));
 #endif
 ```
+
+## tdeck_esp32s3_unittest_v1.7z
+* TOUCH_MODULES_GT911
+

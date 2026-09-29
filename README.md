@@ -14,4 +14,5 @@
 * https://github.com/Xinyuan-LilyGO/T-Deck
 * https://github.com/espressif/esp-idf/tree/release/v5.3/examples/peripherals/spi_master/lcd
 * https://github.com/espressif/esp-idf/tree/release/v5.3/examples/peripherals/lcd/spi_lcd_touch
+* https://github.com/espressif/esp-idf/tree/release/v5.3/examples/system/unit_test/components/testable
 * https://github.com/espressif/esp-idf/tree/release/v5.3/examples/peripherals/lcd/tjpgd
